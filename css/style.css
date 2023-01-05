@@ -1,0 +1,102 @@
+.navbar ul li a{
+  color:snow;  
+}
+.all a{
+  color: snow;
+}
+.navbar{
+  background-color:rgba(0, 0, 0, 0.557);
+  width: 100%;
+}
+.all2{
+  background-image:url(../img/banner-01.jpg) ;
+
+
+background-position: center center;
+background-size: cover;
+height: 100vh;
+
+}
+.layer{
+   position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.306);
+}
+.big{
+  color: white;
+  font-size: 80px;
+
+}
+.ort p{
+font-size: 20px;
+}
+.Home{
+  position: relative;
+}
+
+.ort{
+color: white;
+     z-index: 1000000000000000000000000000000000000000000000000000000000000000000000000;
+    
+}
+.spiner{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  line-height: 100px;
+  font-weight: bold;
+  overflow: hidden;
+
+}
+.spiner{
+  margin-left: 12px;
+  box-sizing: border-box;
+ 
+  
+}
+
+.spiner h1{
+padding-left: 20px;}
+
+
+#top{
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  display: none;
+  z-index: 10000000000 ;
+}
+
+
+.typewrite { color:#fff; text-decoration: none;}
+.bglayr{
+  position: absolute;
+  top: 100%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.717);
+  transition: all .5s;
+}
+
+.col-md-4:hover .bglayr{
+
+  top:0;
+}
+.gg{
+ background-image: url(../img/045dbb4d-b707-4f20-b90f-8557dd9f7b3f.jpeg); 
+
+
+
+ background-position: center center;
+ background-size: cover;
+ height: 100vh;
+ position: relative;
+}
+.ijm:hover{
+background-image:url(../img/th\ \(1\).jpeg) ;
+border-radius: 10%;
+}
